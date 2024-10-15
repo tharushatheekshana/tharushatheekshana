@@ -54,7 +54,8 @@
 <a href="https://t.me/tharushatheekshana"><img src="https://img.shields.io/badge/-Theekshana-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/tharushatheekshana/"><img src="https://img.shields.io/badge/-Tharusha%20Theekshana-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tharushatheekshana25@gmail.com"><img src="https://img.shields.io/badge/-tharushatheekshana25@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/_tharushatheekshana_"><img src="https://img.shields.io/badge/-kevinpatel.me-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/_tharushatheekshana_"><img src="https://img.shields.io/badge/-THEEKSHANA-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <!-- <a href="https://www.leetcode.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a> -->
-<a href="https://x.com/Mr_Theekshana"><img src="https://img.shields.io/badge/-Mr_Theekshana-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://x.com/Mr_Theekshana"><img src="https://img.shields.io/badge/-Mr_Theekshana-1DA1F2?style=for-the-badge&logo=X&logoColor=white"/></a>
+
 </p>
