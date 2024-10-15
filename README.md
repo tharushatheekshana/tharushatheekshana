@@ -2,9 +2,9 @@
 <!-- <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p> -->
 <p align="center"><img src="https://github.com/tharushatheekshana/tharushatheekshana/blob/0a6374fdf3f3706edcd3939f2713187091fe8760/tharushatheekshana/header.png"></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Tharusha Theekshana </h1>
+<h1 align="center">Hi <img src="https://github.com/tharushatheekshana/tharushatheekshana/blob/7dbe9a74b3938a12a2f3eec4389bc6b5e06cc4fd/tharushatheekshana/Hi.gif" width="30px">, I am Tharusha Theekshana </h1>
 
-<p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergraduation in the year 2021. <br>Soon, I would be joining New York University for Masters' of Computer Science program.</p>
+<p align="center" width="150px"> I’m an undergraduate student studying for a BSc (Hons) in Computing and Information Systems at Sabaragamuwa University of Sri Lanka.</p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Btharushatheekshana%7D/count.svg" alt="visitor badge"/></p>
@@ -55,6 +55,7 @@
 <a href="https://t.me/tharushatheekshana"><img src="https://img.shields.io/badge/-Theekshana-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/tharushatheekshana/"><img src="https://img.shields.io/badge/-Tharusha%20Theekshana-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tharushatheekshana25@gmail.com"><img src="https://img.shields.io/badge/-tharushatheekshana25@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/Mr.Theekshana"><img src="https://img.shields.io/badge/-Mr.Theekshana-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://instagram.com/_tharushatheekshana_"><img src="https://img.shields.io/badge/-THEEKSHANA-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <!-- <a href="https://www.leetcode.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a> -->
 <a href="https://x.com/Mr_Theekshana"><img src="https://img.shields.io/badge/-Mr_Theekshana-1DA1F2?style=for-the-badge&logo=X&logoColor=white"/></a>
