@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi <img src="https://github.com/tharushatheekshana/tharushatheekshana/blob/7dbe9a74b3938a12a2f3eec4389bc6b5e06cc4fd/tharushatheekshana/Hi.gif" width="30px">, I am Tharusha Theekshana </h1>
 
-<p align="center" width="150px"> I’m an undergraduate student studying for a BSc (Hons) in Computing and Information Systems at Sabaragamuwa University of Sri Lanka.</p>
+<p align="center" width="150px"> I am pursuing a BSc (Hons) in Computing and Information Systems at Sabaragamuwa University of Sri Lanka. </p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Btharushatheekshana%7D/count.svg" alt="visitor badge"/></p>
