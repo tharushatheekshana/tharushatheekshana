@@ -4,10 +4,12 @@
 
 <h1 align="center">Hi <img src="https://github.com/tharushatheekshana/tharushatheekshana/blob/7dbe9a74b3938a12a2f3eec4389bc6b5e06cc4fd/tharushatheekshana/Hi.gif" width="30px">, I am Tharusha Theekshana </h1>
 
-<p align="center" width="150px"> I am pursuing a BSc (Hons) in Computing and Information Systems at Sabaragamuwa University of Sri Lanka. </p>
+<p align="center" width="150px"> I am studying for a BSc (Hons) in Computing and Information Systems at Sabaragamuwa University of Sri Lanka. </p>
 
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Btharushatheekshana%7D/count.svg" alt="visitor badge"/></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tharushatheekshana&color=green" alt="visitor badge"/>
+</p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushatheekshana&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=tharushatheekshana&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=tharushatheekshana&theme=chartreuse-dark"></p>
